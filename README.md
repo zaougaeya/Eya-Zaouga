@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil Git !
+# Bienvenue sur mon profil Git
 
 Salut, je suis Zaouga Eya, une développeuse passionnée par la création de logiciels innovants et la résolution de problèmes complexes.
 
