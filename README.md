@@ -55,4 +55,4 @@ Si vous souhaitez en savoir plus sur mes compétences ou discuter d'opportunité
 
 ## Image de profil
 
-(C:\Users\Youyo\Desktop\2éme cycle d'ingineur-ESPRIT\Git\eyagit.JPG)
+![Image de profil] (https://previews.123rf.com/images/lytasepta/lytasepta2211/lytasepta221100259/195171454-photo-de-profil-d-avatar-f%C3%A9minin-pour-r%C3%A9seau-social-avec-illustration-vectorielle-lumineuse-demi.jpg)
