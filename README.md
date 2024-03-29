@@ -55,4 +55,4 @@ Si vous souhaitez en savoir plus sur mes compétences ou discuter d'opportunité
 
 ## Image de profil
 
-![Image de profil](C:\Users\Youyo\Desktop\2éme cycle d'ingineur-ESPRIT\Git\eyagit.JPG)
+(C:\Users\Youyo\Desktop\2éme cycle d'ingineur-ESPRIT\Git\eyagit.JPG)
