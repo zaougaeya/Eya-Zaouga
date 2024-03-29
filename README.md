@@ -55,4 +55,4 @@ Si vous souhaitez en savoir plus sur mes compétences ou discuter d'opportunité
 
 ## Image de profil
 
-![Image de profil](https://fr.123rf.com/photo_195171454_female-avatar-profile-picture-for-social-network-with-half-turn.-fashion-and-beauty.-bright-vector-illustration-in-trendy-style..html)
+![Image de profil](C:\Users\Youyo\Desktop\2éme cycle d'ingineur-ESPRIT\Git\eyagit.JPG)
