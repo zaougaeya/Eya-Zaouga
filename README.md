@@ -39,7 +39,7 @@ Je suis une développeuse expérimentée avec une solide expérience dans plusie
 
 ## Expérience professionnelle
 
-### Développeur web full-stack - [Linedata]
+### Développeur web full-stack - Linedata
 
 Je travaille sur un grand projet créé depuis 1991, un produit multinational qui sert à répondre aux besoins des clients tels que Toyota, Volkswagen et des banques internationales. Mes responsabilités comprennent le développement et la maintenance de ce système complexe, en utilisant des technologies telles que Java et SQL pour fournir des solutions sur mesure répondant aux exigences spécifiques des clients.
 
@@ -51,8 +51,8 @@ En dehors de mon travail professionnel, j'aime travailler sur des projets person
 
 Si vous souhaitez en savoir plus sur mes compétences ou discuter d'opportunités de collaboration, n'hésitez pas à me contacter :
 
-- Email : [zaougaeya@gmail.com]
+- Email : zaougaeya@gmail.com (mailto:zaougaeya@gmail.com)
 
 ## Image de profil
 
-![Image de profil](C:\Users\Youyo\Desktop\eyagit.jpg)
+![Image de profil](https://fr.123rf.com/photo_195171454_female-avatar-profile-picture-for-social-network-with-half-turn.-fashion-and-beauty.-bright-vector-illustration-in-trendy-style..html)
